@@ -15,16 +15,17 @@ In the past, I taught an online  **Java** course at **[Hillel IT School](https:/
 As a result, there are still several `hillel-*` repositories that I created during online classes and for some student group projects.
 
 ### Interests
-- Backend Development
+- Backend development
 - Software Architecture
-- Cloud Services
-- Cloud-Native Applications
+- Cloud services
+- Cloud-Native applications
 - Data services and pipelines
 - Event-Driven Architecture
-- Maps and Geolocation-Based Services
+- Maps and geolocation-based services
 - Self-hosting
 - WebRTC
-- Video/Audio Streaming
+- Video/Audio streaming
 - Video Conferencing
+- Small and tiny computer vision model
 
 #### Contact: <contact@ownerofglory.com>
