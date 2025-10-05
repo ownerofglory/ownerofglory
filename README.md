@@ -9,7 +9,7 @@ My overall experience includes:
   - Data products
 
 ### Disclaimer
-This profile is created primarily for **private projects**.
+This profile was created primarily for **private projects**.
 
 In the past, I taught an online  **Java** course at **[Hillel IT School](https://ithillel.ua/)**.
 As a result, there are still several `hillel-*` repositories that I created during online classes and for some student group projects.
