@@ -1,6 +1,6 @@
 ## Welcome! I'm `ownerofglory`
 ### About me:
-Software engineer in the automotive domain, developing solutions for [software defined vehicles (SDV)](https://sdv.eclipse.org/).
+🚗💻Software engineer in the automotive domain, developing solutions for [software defined vehicles (SDV)](https://sdv.eclipse.org/).
 
 My overall experience includes:
 - ⚙️ Development of backend services for connected cars  
