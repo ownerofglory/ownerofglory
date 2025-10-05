@@ -11,7 +11,7 @@ My overall experience includes:
 ### Disclaimer
 This profile was created primarily for **private projects**.
 
-In the past, I taught an online  **Java** course at **[Hillel IT School](https://ithillel.ua/)**.
+In the past, I taught an online  **[Java](https://ithillel.ua/courses/java-pro)** course at **[Hillel IT School](https://ithillel.ua/)**.
 As a result, there are still several `hillel-*` repositories that I created during online classes and for some student group projects.
 
 ### Interests
