@@ -3,10 +3,10 @@
 Software engineer in the automotive domain, developing solutions for [software defined vehicles (SDV)](https://sdv.eclipse.org/).
 
 My overall experience includes:
-  - Development of backend services for connected cars
-  - Cloud services
-  - In-car applications
-  - Data products
+- ⚙️ Development of backend services for connected cars  
+- ☁️ Cloud services  
+- 🚘 In-car applications  
+- 📊 Data products
 
 ### Disclaimer
 This profile was created primarily for **private projects**.
