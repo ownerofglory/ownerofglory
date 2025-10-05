@@ -15,6 +15,6 @@ In the past, I taught an online  **[Java](https://ithillel.ua/courses/java-pro)*
 As a result, there are still several `hillel-*` repositories that I created during online classes and for some student group projects.
 
 ### Interests
-`Backend development` • `Software Architecture` • `Cloud services` • `Cloud-Native applications` • `Data services and pipelines` • `Event-Driven Architecture` • `Maps & geolocation-based services` • `Self-hosting` • `WebRTC` • `Video/Audio streaming` • `Video Conferencing` • `Small & tiny computer vision models`
+`Backend development` • `Software Architecture` • `Cloud services` • `Cloud-Native applications` • `Data services and pipelines` • `Event-Driven Architecture` • `Maps and geolocation-based services` • `Routing for vehicles and public transportation` • `Self-hosting` • `WebRTC` • `Video/Audio streaming` • `Video Conferencing` • `Small and tiny computer vision models`
 
 #### Contact: <contact@ownerofglory.com>
